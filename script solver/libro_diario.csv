@@ -1,0 +1,21 @@
+Fecha,Descripción,Monto,Tipo,Pago,cantidad,coste
+2012-03-03,Cuenta Obligada Sr. Castro,6000000,Capital,N/A
+2012-03-03,Cuenta Obligada Sr. Tapia,6000000,Capital,N/A
+2012-03-03,Aporte inicial Juan Castro (Efectivo),2000000,Cta Obligada,Efectivo
+2012-03-03,Aporte inicial Juan Castro (Maquinaria),2000000,Cta Obligada,N/A
+2012-03-03,Aporte inicial Diego Tapia (Efectivo),2500000,Cta Obligada,Efectivo
+2012-03-03,Aporte inicial Diego Tapia (Muebles de Oficina),2500000,Cta Obligada,N/A
+2012-03-08,Depósito en banco de 50% de caja,2500000,Depósito,Banco
+2012-03-09,Gastos de apertura de cuenta,29800,Gasto,Banco
+2012-03-10,Compra de mobiliario,250000,CompraIVA,Crédito
+2012-03-12,Compra de mercaderías,3000,Compra,Cheque,250
+2012-03-15,Venta de mercaderías,2500,Venta,Efectivo,425,250
+2012-03-18,Devolución de mercaderías,250,Devolución,Crédito,100
+2012-03-19,Compra de materiales de aseo,15000,Gasto,Efectivo
+2012-03-20,Crédito bancario,5000000,Crédito,Banco
+2012-03-25,Pérdida de inventario,250,Pérdida,Inventario,80
+2012-03-30,Retiro personal Juan Castro,200000,Retiro,Cheque
+2012-03-30,Retiro personal Diego Tapia,200000,Retiro,Cheque
+2012-03-30,Retiro personal Juan Castro (Mercaderia),250,RetiroM,Cheque,50
+2012-03-30,Retiro personal Diego Tapia(Mercaderia),250,RetiroM,Cheque,50
+2012-03-31,Pago de contribuciones y derechos de aseo,35000,Gasto,Cheque
